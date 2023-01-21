@@ -11,12 +11,12 @@
  ### Level 1:
  - Register Users with username and plain password.
  ### Level 2:
-    - Database encryption using environment variables(Secret Key).
+ - Database encryption using environment variables(Secret Key).
  ### Level 3:
-    - Hashing the passwords.
+ - Hashing the passwords.
  ### Level 4:
-    - Salting and Hashing passwords using bcrypt.
+ - Salting and Hashing passwords using bcrypt.
  ### Level 5:
-    - Sessions and Cookies with passport.js which includes all the previous levels of authentication.
+ - Sessions and Cookies with passport.js which includes all the previous levels of authentication.
  ### Level 6:
-    - Oauth 2.0, Sign In with Google.
+ - Oauth 2.0, Sign In with Google.
