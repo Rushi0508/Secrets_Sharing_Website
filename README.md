@@ -9,7 +9,7 @@
 ## Levels of Authorization:
 
  ### Level 1:
-    - Register Users with username and plain password.
+ - Register Users with username and plain password.
  ### Level 2:
     - Database encryption using environment variables(Secret Key).
  ### Level 3:
